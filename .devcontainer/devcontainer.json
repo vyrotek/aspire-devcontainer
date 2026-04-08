@@ -3,7 +3,7 @@
 {
 	"name": "Aspire",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/dotnet:2.0.6-10.0-noble",
+	"image": "mcr.microsoft.com/devcontainers/dotnet:dev-10.0-noble",
 	"features": {
 		"ghcr.io/microsoft/aspire-devcontainer-feature/aspire:2": {},
 		"ghcr.io/devcontainers/features/docker-in-docker:2": {},
